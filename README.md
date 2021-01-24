@@ -1,6 +1,8 @@
 # Test App
 Тестовое приложение
 
+Ссылка на debug-сборку: https://drive.google.com/file/d/1W3IbE0zJW3I-fgIDKwXBYNk7t4VOqzA4/view?usp=sharing
+
 ## Архитектура
 Этот проект следует принципам [Google architecture guidelines](https://developer.android.com/jetpack/docs/guide), основанным на архитектуре [BLoC](https://bloclibrary.dev/#/), придерживаясь ряду идей относительно [чистой архитектуры](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), которые подразумевают разделение слоев проекта на несколько уровней.
 
