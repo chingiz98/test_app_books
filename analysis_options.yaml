@@ -1,0 +1,32 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    always_use_package_imports: true
+    sort_constructors_first: true
+    prefer_single_quotes: true
+    use_key_in_widget_constructors: true
+    constant_identifier_names: true
+    prefer_const_declarations: true
+    flutter_style_todos: true
+    avoid_print: true
+    file_names: true
+    prefer_final_fields: true
+    prefer_final_in_for_each: true
+    prefer_final_locals: true
+    prefer_for_elements_to_map_fromIterable: true
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+  exclude:
+    - '**/messages_*.dart'
+    - '**/*.freezed.dart'
+    - '**/*.gr.dart'
+    - '**/*.g.dart'
+    - '**/*.config.dart'
+  errors:
+    missing_required_param: error
+    missing_return: error
+    must_be_immutable: error

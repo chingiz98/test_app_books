@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Данил Абдрафиков on 09.10.2020.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+
+NSCameraUsageDescription = "This app need access to camera to let user take his profile picture.";
+NSPhotoLibraryUsageDescription = "This app need access to gallery to let user select his profile picture.";
+NSMicrophoneUsageDescription = "This app need access to microphone to let user upload videos to his profile.";
+

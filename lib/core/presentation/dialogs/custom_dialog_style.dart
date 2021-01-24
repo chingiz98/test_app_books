@@ -1,0 +1,4 @@
+enum CustomDialogStyle {
+  question,
+  notice,
+}

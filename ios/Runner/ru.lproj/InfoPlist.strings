@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Данил Абдрафиков on 09.10.2020.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+
+NSCameraUsageDescription = "Это приложение требует доступ к вашей камере, чтобы снимать фотографию для аватара профиля пользователя.";
+NSPhotoLibraryUsageDescription = "Это приложение использует доступ к вашей библиотеке для выбора фото в качестве аватара профиля пользователя.";
+NSMicrophoneUsageDescription = "Это приложение использует доступ к микрофону для возможности записывать видео в профиль пользователя.";

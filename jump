@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+dart --packages=.packages --enable-asserts package:testapp/main_cli.dart "$@"

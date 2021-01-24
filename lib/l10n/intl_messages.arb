@@ -1,0 +1,158 @@
+{
+  "@@last_modified": "2021-01-24T05:51:52.486791",
+  "localeName": "en_US",
+  "@localeName": {
+    "description": "Current locale",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "Test app",
+  "@appTitle": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "versionAndBuild": "Version: {version} (build: {buildNumber})",
+  "@versionAndBuild": {
+    "description": "Version and build",
+    "type": "text",
+    "placeholders": {
+      "version": {},
+      "buildNumber": {}
+    }
+  },
+  "unknownError": "Unknown error",
+  "@unknownError": {
+    "description": "Unknown error without details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownErrorWithDebugDetails": "Unknown error: {message}",
+  "@unknownErrorWithDebugDetails": {
+    "description": "Unknown error with details",
+    "type": "text",
+    "placeholders": {
+      "message": {}
+    }
+  },
+  "unauthorizedError": "User is not authorized",
+  "@unauthorizedError": {
+    "description": "unauthorized error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Log in",
+  "@login": {
+    "description": "log in",
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAnAccount": "Create an Account",
+  "@createAnAccount": {
+    "description": "create an account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsPage": "Settings",
+  "@settingsPage": {
+    "description": "settingsPage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "ok",
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning": "Warning",
+  "@warning": {
+    "description": "warning",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoritesPage": "Favorites",
+  "@favoritesPage": {
+    "description": "favoritesPage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "repeatPassword": "Repeat password",
+  "@repeatPassword": {
+    "description": "repeat password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "Sign up",
+  "@signup": {
+    "description": "sign up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "E-mail",
+  "@email": {
+    "description": "email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fieldCanNotBeEmpty": "Please fill in the field",
+  "@fieldCanNotBeEmpty": {
+    "description": "Please fill in the field",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordsNotEqual": "Password and password confirmation are not the same",
+  "@passwordsNotEqual": {
+    "description": "passwords not equal",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "description": "name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "description": "first name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "ID",
+  "@id": {
+    "description": "id",
+    "type": "text",
+    "placeholders": {}
+  },
+  "books": "All books",
+  "@books": {
+    "description": "books",
+    "type": "text",
+    "placeholders": {}
+  },
+  "authorsPage": "Authors",
+  "@authorsPage": {
+    "description": "authorsPage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logOut": "Log Out",
+  "@logOut": {
+    "description": "log out",
+    "type": "text",
+    "placeholders": {}
+  }
+}

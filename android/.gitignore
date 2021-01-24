@@ -1,0 +1,13 @@
+# Commented for Microsoft App Center
+# gradle-wrapper.jar
+/.gradle
+/captures/
+# Commented for Microsoft App Center
+# /gradlew
+# /gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
+key.properties

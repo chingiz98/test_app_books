@@ -1,0 +1,4 @@
+enum NavigationType {
+  auth,
+  app,
+}

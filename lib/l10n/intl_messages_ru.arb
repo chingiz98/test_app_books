@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2020-10-19T15:32:39.183451",
+  "localeName": "ru_RU",
+  "@localeName": {
+    "description": "Current locale",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appTitle": "Test App",
+  "@appTitle": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "versionAndBuild": "Версия: {version} (build: {buildNumber})",
+  "@versionAndBuild": {
+    "description": "Version and build",
+    "type": "text",
+    "placeholders": {
+      "version": {},
+      "buildNumber": {}
+    }
+  }
+}

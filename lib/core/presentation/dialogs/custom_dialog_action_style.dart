@@ -1,0 +1,4 @@
+enum CustomDialogActionStyle {
+  regular,
+  destructive,
+}
